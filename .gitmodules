@@ -5,3 +5,7 @@ url = ssh://git@github.com/CodeEditorLand/Log.git
 [submodule "Interface"]
 path = Interface
 url = ssh://git@github.com/CodeEditorLand/Interface.git
+
+[submodule "Product"]
+path = Product
+url = ssh://git@github.com/CodeEditorLand/Product.git

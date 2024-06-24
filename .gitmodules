@@ -2,9 +2,9 @@
 path = Log
 url = ssh://git@github.com/CodeEditorLand/Log.git
 
-[submodule "Interface"]
-path = Interface
-url = ssh://git@github.com/CodeEditorLand/Interface.git
+[submodule "Outline"]
+path = Outline
+url = ssh://git@github.com/CodeEditorLand/Outline.git
 
 [submodule "Product"]
 path = Product

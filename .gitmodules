@@ -9,3 +9,7 @@ url = ssh://git@github.com/CodeEditorLand/Seed.git
 [submodule "Produce"]
 path = Produce
 url = ssh://git@github.com/CodeEditorLand/Produce.git
+
+[submodule "Water"]
+path = Water
+url = ssh://git@github.com/CodeEditorLand/Water.git

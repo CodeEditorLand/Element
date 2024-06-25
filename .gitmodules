@@ -1,6 +1,3 @@
-[submodule "Integration"]
-path = Integration
-url = ssh://git@github.com/CodeEditorLand/Integration.git
 
 [submodule "Log"]
 path = Log

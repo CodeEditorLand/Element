@@ -1,3 +1,6 @@
+[submodule "Integration"]
+path = Integration
+url = ssh://git@github.com/CodeEditorLand/Integration.git
 
 [submodule "Log"]
 path = Log
@@ -10,6 +13,3 @@ url = ssh://git@github.com/CodeEditorLand/Produce.git
 [submodule "Seed"]
 path = Seed
 url = ssh://git@github.com/CodeEditorLand/Seed.git
-[submodule "Integration"]
-	path = Integration
-	url = ssh://git@github.com/CodeEditorLand/Integration.git

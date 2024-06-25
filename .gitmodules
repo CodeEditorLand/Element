@@ -1,10 +1,15 @@
-[submodule "Interface"]
-path = Interface
-url = ssh://git@github.com/CodeEditorLand/Interface.git
+[submodule "Integration"]
+path = Integration
+url = ssh://git@github.com/CodeEditorLand/Integration.git
 
 [submodule "Log"]
 path = Log
 url = ssh://git@github.com/CodeEditorLand/Log.git
+
 [submodule "Produce"]
-	path = Produce
-	url = ssh://git@github.com/CodeEditorLand/Produce.git
+path = Produce
+url = ssh://git@github.com/CodeEditorLand/Produce.git
+
+[submodule "Seed"]
+path = Seed
+url = ssh://git@github.com/CodeEditorLand/Seed.git

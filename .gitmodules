@@ -1,14 +1,22 @@
+[submodule "Air"]
+path = Air
+url = ssh://git@github.com/CodeEditorLand/Air.git
+
 [submodule "Log"]
 path = Log
 url = ssh://git@github.com/CodeEditorLand/Log.git
+
+[submodule "Produce"]
+path = Produce
+url = ssh://git@github.com/CodeEditorLand/Produce.git
 
 [submodule "Seed"]
 path = Seed
 url = ssh://git@github.com/CodeEditorLand/Seed.git
 
-[submodule "Produce"]
-path = Produce
-url = ssh://git@github.com/CodeEditorLand/Produce.git
+[submodule "Sun"]
+path = Sun
+url = ssh://git@github.com/CodeEditorLand/Sun.git
 
 [submodule "Water"]
 path = Water

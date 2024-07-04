@@ -1,18 +1,23 @@
 [submodule "Echo"]
 path = Echo
 url = ssh://git@github.com/CodeEditorLand/Echo.git
+
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
+
 [submodule "Wind"]
 path = Wind
 url = ssh://git@github.com/CodeEditorLand/Wind.git
+
 [submodule "River"]
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
+
 [submodule "Mountain"]
 path = Mountain
 url = ssh://git@github.com/CodeEditorLand/Mountain.git
+
 [submodule "Sun"]
 path = Sun
 url = ssh://git@github.com/CodeEditorLand/Sun.git

@@ -1,6 +1,6 @@
-[submodule "Echo"]
-path = Echo
-url = ssh://git@github.com/CodeEditorLand/Echo.git
+# [submodule "Echo"]
+# path = Echo
+# url = ssh://git@github.com/CodeEditorLand/Echo.git
 
 [submodule "Mountain"]
 path = Mountain

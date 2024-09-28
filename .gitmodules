@@ -21,3 +21,7 @@ url = ssh://git@github.com/CodeEditorLand/Sun.git
 [submodule "Wind"]
 path = Wind
 url = ssh://git@github.com/CodeEditorLand/Wind.git
+
+[submodule "Rest"]
+path = Rest
+url = ssh://git@github.com/BinaryRest/Rest.git

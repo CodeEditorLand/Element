@@ -1,0 +1,25 @@
+digraph packages {
+  rankdir=LR;
+  node [shape=box];
+  node0 [label="Document\n(./Document)"];
+  node1 [label="Sequence\n(./Echo)"];
+  node2 [label="@codeeditorland/echo\n(./Echo)"];
+  node3 [label="Maintain\n(./Maintain)"];
+  node4 [label="Queue\n(./Maintain/Dependency/CodeEditorLand/Dependency/Queue)"];
+  node5 [label="Mountain\n(./Mountain)"];
+  node6 [label="assets\n(./Mountain/gen/android/app/src/main/assets)"];
+  node7 [label="Mountain\n(./Mountain)"];
+  node8 [label="@codeeditorland/output\n(./Output)"];
+  node9 [label="BinaryRest\n(./Rest)"];
+  node10 [label="River\n(./River)"];
+  node11 [label="deps\n(./Sky/node_modules/.vite/deps)"];
+  node12 [label="@codeeditorland/sky\n(./Sky)"];
+  node13 [label="Sun\n(./Sun)"];
+  node14 [label="@codeeditorland/wind\n(./Wind)"];
+  node3 -> node4 [label="contains"];
+  node5 -> node6 [label="contains"];
+  node7 -> node6 [label="contains"];
+  node12 -> node11 [label="contains"];
+  node12 -> node8 [label="depends on"];
+  node12 -> node14 [label="depends on"];
+}

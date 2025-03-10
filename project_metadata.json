@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "Document",
+    "version": "0.0.1",
+    "type": "rust",
+    "directory": "Document",
+    "file": "Cargo.toml",
+    "dependencies": []
+  },
+  {
+    "id": "1",
+    "name": "Sequence",
+    "version": "0.0.1",
+    "type": "rust",
+    "directory": "Echo",
+    "file": "Cargo.toml",
+    "dependencies": []
+  },
+  {
+    "id": "2",
+    "name": "@codeeditorland/echo",
+    "version": "0.0.1",
+    "type": "nodejs",
+    "directory": "Echo",
+    "file": "package.json",
+    "dependencies": [
+      "prod:@codeeditorland/common",
+      "dev:@cloudflare/workers-types",
+      "dev:@playform/build",
+      "dev:@types/dotenv",
+      "dev:miniflare",
+      "dev:wrangler",
+      "peer:",
+      "opt:"
+    ]
+  }
+]

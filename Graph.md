@@ -43,10 +43,10 @@ graph LR
   subgraph Wind ["./Wind"]
     node14["@codeeditorland/wind"]
   end
-  node3 --> node4
-  node5 --> node6
-  node7 --> node6
-  node12 --> node11
-  node12 --> node8
-  node12 --> node14
+  node3 --> node4[contains]
+  node5 --> node6[contains]
+  node7 --> node6[contains]
+  node12 --> node11[contains]
+  node12 --> node8["depends on"]
+  node12 --> node14["depends on"]
 ```

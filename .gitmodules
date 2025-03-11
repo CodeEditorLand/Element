@@ -1,39 +1,49 @@
 [submodule "Rest"]
 path = Rest
 url = ssh://git@github.com/BinaryRest/Rest.git
+ignore = all
 
 [submodule "Echo"]
 path = Echo
 url = ssh://git@github.com/CodeEditorLand/Echo.git
+ignore = all
 
 [submodule "Mountain"]
 path = Mountain
 url = ssh://git@github.com/CodeEditorLand/Mountain.git
+ignore = all
 
 [submodule "Output"]
 path = Output
 url = ssh://git@github.com/CodeEditorLand/Output.git
+ignore = all
 
 [submodule "River"]
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
+ignore = all
 
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
+ignore = all
 
 [submodule "Sun"]
 path = Sun
 url = ssh://git@github.com/CodeEditorLand/Sun.git
+ignore = all
 
 [submodule "Wind"]
 path = Wind
 url = ssh://git@github.com/CodeEditorLand/Wind.git
+ignore = all
 
 [submodule "Maintain"]
 path = Maintain
 url = ssh://git@github.com/CodeEditorLand/Maintain.git
+ignore = all
 
 [submodule "Document"]
 path = Document
 url = ssh://git@github.com/CodeEditorLand/Document.git
+ignore = all

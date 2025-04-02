@@ -1,0 +1,16 @@
+{
+	"name": "far-fusion",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"astro": "astro",
+		"build": "astro build",
+		"dev": "astro dev",
+		"preview": "astro preview"
+	},
+	"dependencies": {
+		"@codeeditorland/wind": "0.0.1",
+		"astro": "5.5.6",
+		"vite": "6.2.4"
+	}
+}

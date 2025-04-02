@@ -3,10 +3,8 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"astro": "astro",
-		"build": "astro build",
-		"dev": "astro dev",
-		"preview": "astro preview"
+		"Run": "astro dev --host",
+		"prepublishOnly": "astro build"
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "3.3.0",

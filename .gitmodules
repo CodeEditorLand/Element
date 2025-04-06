@@ -47,3 +47,13 @@ ignore = all
 path = Document
 url = ssh://git@github.com/CodeEditorLand/Document.git
 ignore = all
+
+[submodule "Shim"]
+path = Shim
+url = ssh://git@github.com/CodeEditorLand/Shim.git
+ignore = all
+
+[submodule "Worker"]
+path = Worker
+url = ssh://git@github.com/CodeEditorLand/Worker.git
+ignore = all

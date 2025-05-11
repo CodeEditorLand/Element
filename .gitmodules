@@ -2,83 +2,66 @@
 path = Cocoon
 url = ssh://git@github.com/CodeEditorLand/Cocoon.git
 
-
 [submodule "Document"]
 path = Document
 url = ssh://git@github.com/CodeEditorLand/Document.git
-
 
 [submodule "Echo"]
 path = Echo
 url = ssh://git@github.com/CodeEditorLand/Echo.git
 
-
 [submodule "Grove"]
 path = Grove
 url = ssh://git@github.com/CodeEditorLand/Grove.git
-
 
 [submodule "Maintain"]
 path = Maintain
 url = ssh://git@github.com/CodeEditorLand/Maintain.git
 
-
 [submodule "Mist"]
 path = Mist
 url = ssh://git@github.com/CodeEditorLand/Mist.git
-
 
 [submodule "Mountain"]
 path = Mountain
 url = ssh://git@github.com/CodeEditorLand/Mountain.git
 
-
 [submodule "Output"]
 path = Output
 url = ssh://git@github.com/CodeEditorLand/Output.git
-
 
 [submodule "Rest"]
 path = Rest
 url = ssh://git@github.com/BinaryRest/Rest.git
 
-
 [submodule "River"]
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
-
 
 [submodule "Shim"]
 path = Shim
 url = ssh://git@github.com/CodeEditorLand/Shim.git
 
-
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
-
 
 [submodule "Sun"]
 path = Sun
 url = ssh://git@github.com/CodeEditorLand/Sun.git
 
-
 [submodule "Track"]
 path = Track
 url = ssh://git@github.com/CodeEditorLand/Track.git
-
 
 [submodule "Vine"]
 path = Vine
 url = ssh://git@github.com/CodeEditorLand/Vine.git
 
-
 [submodule "Wind"]
 path = Wind
 url = ssh://git@github.com/CodeEditorLand/Wind.git
 
-
 [submodule "Worker"]
 path = Worker
 url = ssh://git@github.com/CodeEditorLand/Worker.git
-

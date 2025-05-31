@@ -38,10 +38,6 @@ url = ssh://git@github.com/BinaryRest/Rest.git
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
 
-[submodule "Shim"]
-path = Shim
-url = ssh://git@github.com/CodeEditorLand/Shim.git
-
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git

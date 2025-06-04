@@ -61,3 +61,7 @@ url = ssh://git@github.com/CodeEditorLand/Wind.git
 [submodule "Worker"]
 path = Worker
 url = ssh://git@github.com/CodeEditorLand/Worker.git
+
+[submodule "Common"]
+path = Common
+url = ssh://git@github.com/CodeEditorLand/Common.git

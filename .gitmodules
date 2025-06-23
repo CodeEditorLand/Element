@@ -46,10 +46,6 @@ url = ssh://git@github.com/CodeEditorLand/Sky.git
 path = Sun
 url = ssh://git@github.com/CodeEditorLand/Sun.git
 
-[submodule "Track"]
-path = Track
-url = ssh://git@github.com/CodeEditorLand/Track.git
-
 [submodule "Vine"]
 path = Vine
 url = ssh://git@github.com/CodeEditorLand/Vine.git
@@ -69,3 +65,7 @@ url = ssh://git@github.com/CodeEditorLand/Common.git
 [submodule "Air"]
 path = Air
 url = ssh://git@github.com/CodeEditorLand/Air.git
+
+[submodule "SideCar"]
+path = SideCar
+url = ssh://git@github.com/CodeEditorLand/SideCar.git

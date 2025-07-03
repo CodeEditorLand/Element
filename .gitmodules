@@ -1,6 +1,14 @@
+[submodule "Air"]
+path = Air
+url = ssh://git@github.com/CodeEditorLand/Air.git
+
 [submodule "Cocoon"]
 path = Cocoon
 url = ssh://git@github.com/CodeEditorLand/Cocoon.git
+
+[submodule "Common"]
+path = Common
+url = ssh://git@github.com/CodeEditorLand/Common.git
 
 [submodule "Document"]
 path = Document
@@ -38,6 +46,10 @@ url = ssh://git@github.com/BinaryRest/Rest.git
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
 
+[submodule "SideCar"]
+path = SideCar
+url = ssh://git@github.com/CodeEditorLand/SideCar.git
+
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
@@ -57,15 +69,3 @@ url = ssh://git@github.com/CodeEditorLand/Wind.git
 [submodule "Worker"]
 path = Worker
 url = ssh://git@github.com/CodeEditorLand/Worker.git
-
-[submodule "Common"]
-path = Common
-url = ssh://git@github.com/CodeEditorLand/Common.git
-
-[submodule "Air"]
-path = Air
-url = ssh://git@github.com/CodeEditorLand/Air.git
-
-[submodule "SideCar"]
-path = SideCar
-url = ssh://git@github.com/CodeEditorLand/SideCar.git

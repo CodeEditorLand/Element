@@ -46,10 +46,6 @@ url = ssh://git@github.com/BinaryRest/Rest.git
 path = River
 url = ssh://git@github.com/CodeEditorLand/River.git
 
-[submodule "SideCar"]
-path = SideCar
-url = ssh://git@github.com/CodeEditorLand/SideCar.git
-
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
@@ -69,3 +65,6 @@ url = ssh://git@github.com/CodeEditorLand/Wind.git
 [submodule "Worker"]
 path = Worker
 url = ssh://git@github.com/CodeEditorLand/Worker.git
+[submodule "SideCar"]
+	path = SideCar
+	url = ssh://git@github.com/CodeEditorLand/SideCar.git

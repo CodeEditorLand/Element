@@ -48,19 +48,9 @@ path = Rest
 url = ssh://git@github.com/BinaryRest/Rest.git
 ignore = all
 
-[submodule "River"]
-path = River
-url = ssh://git@github.com/CodeEditorLand/River.git
-ignore = all
-
 [submodule "Sky"]
 path = Sky
 url = ssh://git@github.com/CodeEditorLand/Sky.git
-ignore = all
-
-[submodule "Sun"]
-path = Sun
-url = ssh://git@github.com/CodeEditorLand/Sun.git
 ignore = all
 
 [submodule "Vine"]

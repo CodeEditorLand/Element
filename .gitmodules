@@ -13,11 +13,6 @@ path = Common
 url = ssh://git@github.com/CodeEditorLand/Common.git
 ignore = all
 
-[submodule "Document"]
-path = Document
-url = ssh://git@github.com/CodeEditorLand/Document.git
-ignore = all
-
 [submodule "Echo"]
 path = Echo
 url = ssh://git@github.com/CodeEditorLand/Echo.git

@@ -13,6 +13,11 @@ path = Common
 url = ssh://git@github.com/CodeEditorLand/Common.git
 ignore = all
 
+[submodule "Cache"]
+path = Cache
+url = ssh://git@github.com/CodeEditorLand/Cache.git
+ignore = all
+
 [submodule "Echo"]
 path = Echo
 url = ssh://git@github.com/CodeEditorLand/Echo.git

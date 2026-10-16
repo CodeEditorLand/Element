@@ -50,7 +50,7 @@ ignore = all
 
 [submodule "Rest"]
 path = Rest
-url = ssh://git@github.com/BinaryRest/Rest.git
+url = ssh://git@github.com/CodeEditorLand/Rest.git
 ignore = all
 
 [submodule "Sky"]
